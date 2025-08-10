@@ -1,0 +1,25 @@
+{
+  "section": "Topik Hangat",
+  "topics": [
+    {
+      "title": "Kunjungan Paus",
+      "image_description": "Paus Fransiskus melambaikan tangan"
+    },
+    {
+      "title": "Kabinet Prabowo",
+      "image_description": "Prabowo Subianto bersama pejabat lainnya"
+    },
+    {
+      "title": "PON 2024",
+      "image_description": "Logo dan maskot PON 2024"
+    },
+    {
+      "title": "Pilkada 2024",
+      "image_description": "Ilustrasi Pilkada dengan kotak suara"
+    },
+    {
+      "title": "Macet Puncak",
+      "image_description": "Kemacetan kendaraan di jalur Puncak"
+    }
+  ]
+}
